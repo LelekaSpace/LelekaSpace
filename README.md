@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-<img src="{![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/52913111/170785366-994f194a-6842-4dc3-b398-3af5244f93e1.svg)
-}" />
 
+<img src="{[BadgeURLHere](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)}
 
 
 <!--
