@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<img src="img src="{https://img.shields.io/badge/Gmail.com-macnftlaren%40gmail.com-green}" /
-">
+<img src="https://img.shields.io/badge/My%20Gmail-macnftlaren%40gmail.com-brightgreen">
 
 
 
