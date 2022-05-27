@@ -1,7 +1,6 @@
 ### Hi there, I'm LelekaSpace from Ukraine!
 
-<a href="https://www.instagram.com/lelekaspace/"><img src="<a href="mailto:lelekaspace@gmail.com"><img src="https://img.shields.io/badge/Gmail.com-leleka.space-red" alt=""></a>
-" alt=""></a>
+<a href="https://www.instagram.com/lelekaspace/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
 
 
 
