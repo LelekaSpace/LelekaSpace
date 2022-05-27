@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="mailto:lelekaspace@gmail.com"><img src="https://img.shields.io/badge/Gmail.com-lelekaspace-red" alt=""></a>
+<a href="mailto:lelekaspace@gmail.com"><img src="https://img.shields.io/badge/Gmail.com-leleka.space-red" alt=""></a>
 
 
 
