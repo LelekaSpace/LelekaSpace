@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/My%20Gmail-macnftlaren%40gmail.com-brightgreen">
 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-
+<img src="https://img.shields.io/badge/macnftlaren-%40gmail.com-red">
+<img src="https://img.shields.io/badge/-Gmail-red"> <a href="mailto:lelekaspace@gmail.com">LelekaSpace</a>
 
 
 Here are some ideas to get you started:
