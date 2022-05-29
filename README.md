@@ -12,7 +12,8 @@
 
 I took a python basics course and later a Data science course.
 
-<img src="https://img.icons8.com/ios-glyphs/344/python.png" width="80" height="90" alt=""> <img src="https://cdn-icons-png.flaticon.com/512/3716/3716795.png" width="80" height="90" alt=""> 
+
+<a href="https://smartinsight.me/certificate-2110fdbc296e/"><img src="https://cdn-icons-png.flaticon.com/512/3716/3716795.png" width="80" height="90" alt=""> </a>
 
 
 
